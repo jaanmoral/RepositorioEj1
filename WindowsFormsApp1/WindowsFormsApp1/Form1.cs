@@ -21,5 +21,10 @@ namespace WindowsFormsApp1
         {
             MessageBox.Show("SE ESTA PULSANDO EL BOTÓN");
         }
+
+        private void bSegundo_Click(object sender, EventArgs e)
+        {
+            MessageBox.Show("SEGUNDO BOTON ESPECIAL");
+        }
     }
 }
