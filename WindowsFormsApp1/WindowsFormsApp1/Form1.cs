@@ -16,5 +16,10 @@ namespace WindowsFormsApp1
         {
             InitializeComponent();
         }
+
+        private void bMensaje_Click(object sender, EventArgs e)
+        {
+            MessageBox.Show("SE ESTA PULSANDO EL BOTÓN");
+        }
     }
 }
