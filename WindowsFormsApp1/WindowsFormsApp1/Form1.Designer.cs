@@ -53,7 +53,7 @@
             "QUINTA"});
             this.listBox1.Location = new System.Drawing.Point(221, 28);
             this.listBox1.Name = "listBox1";
-            this.listBox1.Size = new System.Drawing.Size(179, 160);
+            this.listBox1.Size = new System.Drawing.Size(120, 108);
             this.listBox1.TabIndex = 1;
             // 
             // Form1
